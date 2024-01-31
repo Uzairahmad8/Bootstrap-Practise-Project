@@ -1,3 +1,3 @@
 # Bootstrap-Practise-Project
 
-Live Hosting: designbyuzair.netlify.app
+Live Hosting: https://designbyuzair.netlify.app/
